@@ -195,6 +195,7 @@ console.Cantidad=5
 console.log(`Verificamos si se realizaron cambios en el Objeto PEDIDO:`)
 console.table(Pedido)
 
+
 //Desestruración de 2 o más objetos
 console.log('%c9. Desestruración de 2 o más objetos ', style_console);
 
