@@ -166,9 +166,8 @@ console.log("Objeto Modificado: ")
 console.table(Pedido)
 
 
-
 console.log('%c7. Métodos para controlar la mutabilidad de los Objetos, Congelación (FREEZE) ', style_console)
-//Si deseamos no permitir que los Objetos sean modificados ni en estructura, ni en valor utilizaremos el método FREEZE (Congelar)
+//Si deseamos no permitir que los Objetos sean modificados ni en estructura, ni en valor utilizaremos el método FREEZE(Congelar)
 console.log(`La estructura actual del objeto COMPRADOR es: `)
 console.table(Comprador)
 Object.freeze(Comprador)
