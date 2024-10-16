@@ -155,7 +155,7 @@ console.log("Objeto despuués de ser modificado:")
 console.table(Comprador)
 
 
-//Eliminar las propiedades de un objeto existente
+//Eliminar las propiedades de un objeto existente.
 console.log('%c6. Eliminación de las Propiedades de un Objeto', style_console)
 console.log("Objetos antes de ser Modificados")
 console.table(Pedido)
