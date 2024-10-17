@@ -181,6 +181,7 @@ console.log(`Verificamos si se realiaron los cambios en el Objeto Comprador: `)
 console.table(Comprador)
 
 
+
 console.log('%c8. Métodos para controlar la mutabilidad de los Objetos, Sellado (SEAL) ', style_console);
 //Sin embargo, en el caso que deseamos poder modificar los valores de lads propiedades del Objeto, pero no su eswtructura, usaremos SEAL
 console.log(`Objeto antes de ser Modificado`)
