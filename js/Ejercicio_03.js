@@ -17,6 +17,7 @@ let Producto_Barcode;
 let Producto_Categorias = ["Camionetas", "Automotriz", "Mejores precios", "Nuevo Lanzamiento"]
 
 
+
 //Accedemos a los valores de las caracteristicas del producto de manera independiente
 console.log(`Los datos del PRODUCTO son: 
     Nombre: ${Producto_Nombre}, Tipo de Dato: ${typeof(Producto_Nombre)}
