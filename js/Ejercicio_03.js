@@ -142,6 +142,7 @@ console.log(`El nuevo tipo de dato de la disponibilidad es:${nuevoTipoDisponibil
 //Si
 
 
+
 //Agregar nuevas propiedades a un objetos existente
 console.log('%c5. Agregación de las Propiedades de un Objeto', style_console)
 console.log("Objetos antes de ser Modificados")
